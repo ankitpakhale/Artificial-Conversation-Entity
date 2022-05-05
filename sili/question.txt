@@ -1,0 +1,302 @@
+where can i enrol for aadhaar?
+what are the documents required for enrolment for aadhaar?
+do i need to bring original documents for aadhaar enrolment?
+what is “order aadhaar reprint” service?
+what are the charges to be paid for “order aadhaar reprint”?
+how residents can raise the request for “order aadhaar reprint”?
+how to raise request using registered mobile number?
+how to raise request using non-registered/alternate mobile number?
+which modes are available to make the payment?
+what is srn?
+what is awb number?
+do we have option to raise an order aadhaar reprint request on different address?
+how many days will it take to receive “order aadhaar reprint” after creating successful request?
+how to validate digital signatures in e-aadhaar?
+what is the password of e-aadhaar?
+what supporting software needed to open e-aadhaar?
+how can resident download e-aadhaar?
+what is masked aadhaar?
+what is e-aadhaar?
+what is the expiry period of vid?
+will re-generation of vid lead to the same vid or a different vid?
+can an agency store vid?
+in case of vid
+can vid be used for otp or biometrics or demographics authentication?
+what if an aadhaar number holder forgets vid? can he/she obtain again?
+can anyone else generate vid for me?
+how does a resident obtain vid?
+what is virtual id (vid)?
+what details can i update in self service update portal (ssup)?
+is it necessary that my mobile number should be registered with aadhaar while requesting for any kind of update?
+where can i update my mobile number?
+how can i submit my supporting documents in case of online self service update portal (ssup)?
+i do not have any document proof of my address. can i still update my address in my aadhaar?
+how do i add my father’s / husband’s name to my address?
+can i update my address in my local language?
+i successfully submitted my address update request. how can i track this?
+my update request got rejected for invalid documents. what does this mean?
+what is aadhaar authentication history?
+where can a resident check his/her aadhaar authentication history?
+what is the procedure for checking aadhaar authentication history on uidai websites?
+what information resident can get from aadhaar authentication history?
+this facility allows me to view maximum 50 authentication records. how can i check more records?
+some of authentication transactions records are showing as failed
+if i have not performed some of the transactions listed in the records
+what is uidai response code in the authentication records?
+what is aua transaction id in the authentication records?
+what is auth modality?
+what are the uidai services?
+what are error codes?
+what is the password to view aadhaar authentication report?
+what is uidai secure qr code? how qr code enhance the security of e-aadhaar?
+what information does new secure qr code of e-aadhaar contain?
+how can someone read new secure qr code available on e-aadhaar?
+how qr scanner and uidai application will work?
+who all can use secure qr code of e-aadhaar?
+what is hashing?
+what are the benefits of hashing?
+why is it needed for our qr code client?
+where can i find the public certificate for digital signature validation?
+what is aadhaar paperless offline e-kyc?
+how to generate offline aadhaar?
+who are the users of this aadhaar paperless offline e-kyc?
+how to share this paperless offline ekyc document with the service provider?
+how will service providers use aadhaar offline e-kyc?
+can this offline paperless ekyc document be shared to other entities by the service provider?
+how this aadhaar offline paperless ekyc document is different from the other identification documents produced offline by residents?
+who and when to lock biometrics?
+how to unlock (locked) biometrics?
+what happens when biometric is locked?
+what biometric can be locked?
+what is biometric locking?
+what is aadhaar sms service?
+do i need to generate otp for all aadhaar sms services?
+how to lock/unlock aadhaar number with sms service?
+what does lock/unlock aadhaar mean?
+my sms is not being sent. what should i do?
+what is “order aadhaar card” service?
+what are the security features of “aadhaar pvc card”?
+what are the charges to be paid for “aadhaar card”?
+how one can raise the request for “aadhaar card”?
+what if residents want to get the aadhaar card printed with the details that they want?
+how many days will it take to receive “aadhaar card” after creating successful request?
+how aadhaar card is different from aadhaar letter?
+can i become an address verifier if i have updated address in my aadhaar using validation letter?
+what is an address validation letter?
+who is an address verifier?
+how to raise request for generation of “aadhaar validation letter”?
+what will happen after generation of secret code for aadhaar validation letter?
+my verifier does not have registered mobile number. how can i use this service then?
+why does it show my verifier’s name in the new address on screen?
+can i edit the information in the address section on screen?
+i have submitted the request for address validation letter. how can i track this?
+when and at which address will i get the secret code?
+how will i get to know about the delivery status of address validation letter?
+i have received srn for my request. till when will i receive the address validation letter with the secret code?
+i have completed the process and received a urn. does this mean that my address has been updated?
+will i get a new aadhaar letter by post with the updated address?
+can i use the secret code again if my request got rejected due to some error?
+is there a limit to the number of times i can use the address validation letter service?
+what is urn?
+i forgot my vid. how can i get it after locking uid?
+how can resident unlock uid?
+how can resident lock uid?
+what is uid lock & unlock?
+does linking my bank account
+why am i asked to verify bank account
+can a fraudster withdraw money from my aadhaar linked bank account if he knows my aadhaar number or has my aadhaar card? has any aadhaar holder suffered any financial or other loss or identity theft on account of impersonation or misuse?
+there are many agencies that simply accept physical copy of aadhaar and do not carry out any biometric or otp authentication or verification. is this a good practice?
+what happens if some fraudster who obtains a copy of my aadhaar card and tries to open a bank account in my name without my knowledge. will i not be harmed?
+i gave my aadhaar card to a service provider for proving my identity. can anyone harm me by knowing and misusing my aadhaar number?
+if aadhaar has to be freely used for proving identity and it is safe to do so
+recently
+how do i link pan with aadhaar?
+what is aadhaar smart card or plastic card? is it mandatory for getting services?
+i applied for aadhaar earlier but did not get it. so
+i recently updated my aadhaar. can you please expedite it? i need it urgently.
+i updated my aadhaar recently. but it shows under manual check. when will it get updated?
+after i get enroled
+what can the resident do if there are spelling mistakes/other demographic error in his/her aadhaar enrolment slip (96 hour correction window)
+what if aadhaar letter does not get delivered to a resident?
+what if resident misplaces his aadhaar number?
+aadhaar letter section - what if a resident misplaces his aadhaar letter /forgets his aadhaar?
+what if a resident gets rejected by the uidai and is not issued aadhaar?
+how to configure m-aadhaar applications in phone (android & ios)?
+what is ios compatible version for maadhaar app?
+does my profile on maadhaar get inactive when changed to new phone with registered mobile number?
+what are the features/benefit of m-aadhaar application?
+where can m-aadhaar be used?
+how resident can create profile on m-aadhaar app?
+how resident can view the profile?
+is there any process to update the aadhaar details through m-aadhaar app 
+is there any difference in specification and/or functionality of m-aadhaar basis on ios & android device?
+how to avoid entering your password again and again
+is it compulsory to have registered mobile number to use m-aadhaar?
+can the registrar add / remove introducers at a later stage?
+how can a person's date of birth be validated?
+what information is required to be provided by an individual to get aadhaar?
+will getting aadhaar be compulsory?
+what are the features and benefits of aadhaar?
+what is aadhaar?
+how does the uidai protect the individual and their information?
+how is aadhaar different from any other identity issued by the government?
+what use can aadhaar be put to? what are the aadhaar enabled applications? how a resident gets benefited through aadhaar enabled applications?
+what are the possible criminal penalties envisaged against the fraud or unauthorized access to data?
+what are the data protection and privacy measures taken by uidai ?
+what are the privacy protections in place to protect the right to privacy of the resident?
+can the resident’s data be purged from aadhaar database?
+can a resident opt out of aadhaar?
+how will the grievances of the resident be addressed?
+who will have access to the uid database? how will the security of the database be ensured?
+can an nri apply for aadhaar?
+can my passport be used for aadhaar update of my spouse?
+i am an nri and i have an aadhaar. can my spouse be enrolled based on my aadhaar & passport?
+what is the process for aadhaar enrolment for children of nris?
+can i give an international mobile number in my aadhaar details?
+the address in my passport is not updated. i want to give my present address for my aadhaar application. is that possible?
+what is the process for nri enrolment?
+i have enroled for aadhaar number but i am yet to receive the aadhaar number
+is it mandatory to enrol for aadhaar to apply for pan in india? if yes
+will my pan become non-functional if i do not link it to aadhaar?
+i do not have any date of birth proof. how do i update the dob in aadhaar or pan to complete the linking?
+my date of birth in pan and aadhaar do not match. not able to link them. pls help?
+my name is different in pan and aadhaar. it is not allowing me to link both. what to do?
+i am already having a pan number which i am quoting for filing of income tax return. do i still need to quote aadhaar number?
+has the government made it mandatory to quote aadhaar number for filing income tax returns?
+do i have to pay any fee for aadhaar enrolment?
+what kind of data gets captured during aadhaar enrolment?
+is there any online method of getting enroled for aadhaar?
+can i get myself enroled for aadhaar just by sending required documents by post?
+what if my demographic details mentioned on acknowledgement / enrolment slip are not matching with supporting documents?
+can i get enroled for aadhaar if any of my fingers or iris is missing?
+is it mandatory to provide mobile number or email for aadhaar enrolment?
+is there any age limit for aadhaar enrolment?
+how much time it takes to get my aadhaar generated after the enrolment?
+can i get my aadhaar letter downloaded online after it is generated?
+does the online downloaded aadhaar letter have same validity as that of original?
+i have lost my enrolment id slip/ aadhaar letter
+i have enroled for aadhaar multiple times but have not received my aadhaar letter. what should i do in this case?
+i have received sms on my mobile that my aadhaar is rejected
+i don’t have required documents for enrolment of aadhaar
+what are resident’s responsibilities in ensuring that his/her enrolment does not get rejected?
+whether the ration card nerega card etc can be accepted as valid proof of identity/address for the family members listed in the document in case they do not have separate poi or poa document?
+whether uidai has defined process to be followed for family enrolments?
+what is the option if the address indicated on the poa document appears to be inadequate for postal delivery? can additional information from the residents be accepted?
+where multiple address proofs are available for a resident (eg. present and native)
+can i get my aadhaar letter download online after updation?
+shall i get aadhaar letter again after updation?
+how much time it takes to get updation in aadhaar?
+is there any method of updating biometrics online or by post?
+can i update biometrics (finger prints/ iris/photograph) in aadhaar?
+does submission of request guarantee updation of information?
+i have lost my mobile number/ do not possess the number that i enroled with in aadhaar. how should i submit my update request?
+i have my mobile number registered in aadhaar but i want to replace it with my second number. can i update it online?
+do i need to visit same enrolment centre for updation also where my original enrolment was done?
+will my aadhaar number get changed after updation?
+do i need to bring original documents for updation at enrolment centre?
+what details can i get updated in case i am using online self service update (ssup) portal for updation?
+what details can i get updated in case i am visiting permanent enrolment centre for updation?
+is it necessary that my mobile number should be registered with aadhaar while requesting for any kind of updation?
+how can i update my details in aadhaar?
+is there any fee involved for updation in aadhaar details?
+what are the documents required for updation in aadhaar details?
+what fields can i update in aadhaar?
+can i update my details in aadhaar?
+what are the liabilities of an introducer?
+what are the responsibility of an introducer?
+who is an introducer?
+how are residents without documents enroled in aadhaar?
+what are the uidai guidelines for verification that the verifier must keep in mind while verifying the documents?
+what are the responsibilities of a verifier?
+who is a verifier?
+what are the responsibilities of an ea’s supervisor?
+who is a supervisor and what are his/her qualifications?
+how does the operator perform correction in resident’s data?
+what are the document scanning guidelines of uidai?
+what does the operator do after capturing demographic and biometric data of the resident?
+how does the operator review data with the resident?
+what are the uidai guidelines for biometric data capture?
+what are the uidai guidelines for demographic data capture?
+what are the fifteen commandments that an operator must remember during resident enrolment?
+who is an operator and what are his/her qualifications?
+what are the preparatory activities that an ea must do prior to starting enrolments?
+are eas allowed to sub-contract enrolment work?
+who is an enrolment agency (ea)?
+what are the responsibilities of the registrar under the aadhaar project?
+how does the registrar get started on uidai project?
+who is a registrar?
+how will children be captured in the database?
+how do i enter data in local language?
+what do you mean when you say that a particular language is supported?
+what languages are supported?
+how do i make local language the primary source for data entry?
+what are the common issues seen with indian language input?
+how do i import pre-enrolment data in local language?
+what language will the database be maintained? in what language will authentication services be provided? in what language will communication between uidai and the resident take place?
+can i update the date of birth in my aadhaar?
+i have already updated date of birth in my aadhaar once. can i update/ correct it again?
+i recently updated my date of birth
+i sent my details to help centre/ regional office but my request got rejected. what to do now?
+what is aadhaar seva kendra?
+how many aadhaar seva kendra are there in india?
+what are the timings of aadhaar seva kendra?
+can i update my aadhaar at aadhaar seva kendra?
+is the aadhaar centre at my nearby bank/ post office also an aadhaar seva kendra?
+what is the service process at ask?
+can i book my appointment for aadhaar update?
+can i reschedule/ cancel my appointment
+i did not get my aadhaar card. can i get that at aadhaar seva kendra
+i lost my aadhaar and my mobile number is also not registered in aadhaar. can i get that at ask
+my date of birth/ name/ gender update request got rejected and i have been asked to contact regional office. can i do that update at aadhaar seva kendra
+what is aadhaar authentication?
+when do i need to authenticate?
+what are the benefits of aadhaar authentication?
+is there a mechanism to notify the residents when an authentication occurs against their aadhaar number?
+i received an authentication notification even though i did not authenticate myself. whom do i approach?
+do i need to authenticate with only my thumbs?
+what if my authentication request gets rejected even though i provide my fingerprints with my aadhaar number?
+will i be denied my entitlements (ration
+how will i authenticate if my fingerprints are worn out / i have no fingers?
+how do i request for otp?
+how to update my aadhaar in ration card?
+name different in aadhaar vis-à-vis service delivery database?
+my fingers do not work
+have multiple accounts
+do i need aadhaar to get my dbt?
+how do i change my account where to receive dbt funds?
+how would i know that dbt funds have come to my account?
+what all can i do using a bank mitra
+how does aadhaar base dbt help me as a beneficiary?
+why are government schemes asking for aadhaar?
+will an aadhaar enabled bank account be opened with every issue of an aadhaar number?
+how will an aadhaar enabled bank account help a resident that already has a bank account?
+i use bhim. i want to send money to someone. but the recipient does not have any phone or upi address. is there any method?
+what is the method to send money using aadhaar number in bhim?
+which account of the recipient will get credited when money is sent to aadhaar in bhim?
+i recently saw certain merchants using aadhaar pay pos for receiving payments. can i use my aadhaar number and fingerprint to make digital payment to such merchants?
+i have accounts with more than 1 bank and i have linked all accounts to aadhaar. which account can i use for making digital payments using aadhaar number?
+will my account be debited online / immediately while paying through aadhaar pay?
+what are the grievance redressal channels in uidai?
+what is uidai chatbot?
+what all can i ask from aadhaar chatbot?
+can i get the details of enrolment center of aadhaar through chatbot?
+what is the significance of language icons at the bottom of chatbot type box?
+what are the buttons at the top of chatbot after ‘getting started’
+how can i give any feedback on the answer of chatbot if i want to?
+can aadhaar chatbot tell me about my aadhaar enrolment/update status?
+what should i do to add name in ration card?
+what should i do to delete name from
+ration card?
+
+what should i do to get a duplicate ration card if my ration card is torn
+what should i do to change the ration card?
+what should i do to separate ration card?
+what to do to transfer ration card?
+why i am not getting benefit of subsidize grain in ration card?
+why i can not get kerosene in apl-1 card?
+the fingerprint does not come in the ration card when going to get food grains?
+what to do to have bpl and antyoday ration card?
+what to do to get a new barcoded ration card?
+what should be done to get benefit to start grain in ration card?
+how many categories are available in barcoded ration card?
+where can i get more information about ration card or fair price shop?
