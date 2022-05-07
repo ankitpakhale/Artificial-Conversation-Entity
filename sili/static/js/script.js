@@ -6,7 +6,7 @@ window.onload = function() {
             messages: [],
             input: '',
             send_blank: false,
-            placeholder: 'Send a message to the chatbot...',
+            placeholder: 'Send a message to Artificial Conversation Entity',
         },
         created: function() {
 
@@ -24,7 +24,7 @@ window.onload = function() {
 
                     //just incase
                     this.send_blank = false;
-                    this.placeholder = "Send a message to the chatbot...";
+                    this.placeholder = "Send a message to Artificial Conversation Entity";
 
                     fetch("/sili/get-response/", {
                             body: JSON.stringify({ 'message': message['text'] }),
@@ -51,7 +51,7 @@ window.onload = function() {
             check_content: function() {
                 if (this.input.length > 0) {
                     this.send_blank = false;
-                    this.placeholder = "Send a message to the chatbot...";
+                    this.placeholder = "Send a message to Artificial Conversation Entity";
                 } else {
                     this.send_blank = true;
                     this.placeholder = "Please put in some text";

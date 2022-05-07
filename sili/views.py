@@ -45,6 +45,7 @@ def SignupView(self):
         Email = self.POST['email']
         Number = self.POST['number']
         Password = self.POST['password']
+        Age = self.POST['age']
         ConfirmPassword = self.POST['confirmPassword']
         try:
             data=SignUp.objects.get(email=Email)
@@ -57,11 +58,13 @@ def SignupView(self):
                 name = Name,
                 email = Email,
                 number = Number,
+                age = Age,
                 password = Password,
                 confirmPassword = ConfirmPassword
                 )
                 v.save()
-                return redirect('sili:LOGIN')
+                return render(self , 'signup.html',{'msg':'Congratulations, your account has been successfully created.'}) 
+                # return redirect('sili:LOGIN')
             else:
                 msg = 'Enter Same Password'
                 return render(self , 'signup.html',{'msg':msg}) 
@@ -107,7 +110,7 @@ def services(request):
 
 def contact(request):
     if 'email' in request.session:
-        key = ''
+        msg = ''
         if request.method == 'POST':
             db = ContactForm(name = request.POST.get('name'), 
                                 email = request.POST.get('email'), 
@@ -117,7 +120,9 @@ def contact(request):
 
             db.save()
             key = "Your Message has been sent successfully"
-        return render(request, 'contact.html', {'msg': key})
+            print(key)
+            msg = "Thank you! Your message has been successfully sent."
+        return render(request, 'contact.html', {'msg': msg})
     return redirect('sili:LOGIN')
 
 def error(request):

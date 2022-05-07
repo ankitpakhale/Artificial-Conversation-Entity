@@ -26,8 +26,8 @@ SECRET_KEY = 'jon-u&z@w%)dxntm7f7mh&)_oy0$b3m&8%ep18c=$g=+&e2te%'
 DEBUG = True
 # DEBUG = False
 
-ALLOWED_HOSTS = ['acentity.herokuapp.com']
-# ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['acentity.herokuapp.com']
+ALLOWED_HOSTS = []
 
 # Application definition
 
@@ -43,7 +43,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    "whitenoise.middleware.WhiteNoiseMiddleware",
+    # "whitenoise.middleware.WhiteNoiseMiddleware",
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
